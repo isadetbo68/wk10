@@ -11,4 +11,6 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "log_viewer",
+    "wk11/pygameapp",
+    "wk11/pygameapp/saraAdventure",
 ]

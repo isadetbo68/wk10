@@ -1,0 +1,4 @@
+timestamp,level,message
+2026-02-22T21:00:00,INFO,Service started
+2026-02-22T21:01:00,WARNING,Slow response detected
+2026-02-22T21:02:00,ERROR,Unhandled exception
